@@ -1,0 +1,13 @@
+D:\Neuron\MultiLayer Perceptron\bin\Debug\MultiLayer Perceptron.exe.config
+D:\Neuron\MultiLayer Perceptron\bin\Debug\MultiLayer Perceptron.exe
+D:\Neuron\MultiLayer Perceptron\bin\Debug\MultiLayer Perceptron.pdb
+D:\Neuron\MultiLayer Perceptron\obj\Debug\MultiLayer Perceptron.csprojAssemblyReference.cache
+D:\Neuron\MultiLayer Perceptron\obj\Debug\MultiLayer_Perceptron.Form1.resources
+D:\Neuron\MultiLayer Perceptron\obj\Debug\MultiLayer_Perceptron.Properties.Resources.resources
+D:\Neuron\MultiLayer Perceptron\obj\Debug\MultiLayer Perceptron.csproj.GenerateResource.cache
+D:\Neuron\MultiLayer Perceptron\obj\Debug\MultiLayer Perceptron.csproj.CoreCompileInputs.cache
+D:\Neuron\MultiLayer Perceptron\obj\Debug\MultiLayer Perceptron.exe
+D:\Neuron\MultiLayer Perceptron\obj\Debug\MultiLayer Perceptron.pdb
+D:\Neuron\MultiLayer Perceptron\obj\Debug\Neuron_1.Form1.resources
+D:\Neuron\MultiLayer Perceptron\obj\Debug\MultiLayer_Perceptron.HiddenLayerForm.resources
+D:\Neuron\MultiLayer Perceptron\obj\Debug\MultiLayer_Perceptron.NeuronForm.resources

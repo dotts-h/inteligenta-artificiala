@@ -1,0 +1,10 @@
+D:\Neuron\Neuron-1\obj\Debug\Neuron-1.csprojAssemblyReference.cache
+D:\Neuron\Neuron-1\obj\Debug\Neuron_1.Form1.resources
+D:\Neuron\Neuron-1\obj\Debug\Neuron_1.Properties.Resources.resources
+D:\Neuron\Neuron-1\obj\Debug\Neuron-1.csproj.GenerateResource.cache
+D:\Neuron\Neuron-1\obj\Debug\Neuron-1.csproj.CoreCompileInputs.cache
+D:\Neuron\Neuron-1\bin\Debug\Neuron-1.exe.config
+D:\Neuron\Neuron-1\bin\Debug\Neuron-1.exe
+D:\Neuron\Neuron-1\bin\Debug\Neuron-1.pdb
+D:\Neuron\Neuron-1\obj\Debug\Neuron-1.exe
+D:\Neuron\Neuron-1\obj\Debug\Neuron-1.pdb

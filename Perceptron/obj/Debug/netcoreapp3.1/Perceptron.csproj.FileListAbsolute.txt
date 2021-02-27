@@ -1,0 +1,5 @@
+D:\Neuron\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.csprojAssemblyReference.cache
+D:\Neuron\Perceptron\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Neuron\Perceptron\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Neuron\Perceptron\obj\Debug\netcoreapp3.1\Perceptron_MarkupCompile.cache
+D:\Neuron\Perceptron\obj\Debug\netcoreapp3.1\Perceptron_MarkupCompile.lref
